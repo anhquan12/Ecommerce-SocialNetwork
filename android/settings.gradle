@@ -1,0 +1,3 @@
+rootProject.name = 'EcommerceSocialNetwork'
+
+include ':app'
